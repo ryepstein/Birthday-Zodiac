@@ -1,0 +1,11 @@
+Assignment #1
+COSC 4353/6353
+
+Assignment Date: February 10, 2016
+Due Date: February 22, 2016 23:59:59
+
+Design an application that will perform the following actions:
+1.	Prompt the user and read in user date of birth in (mm/dd/yyyy) format.
+2.	Print out following summary from the date of birth:
+	- What day of the week they were born? e.g. "You were born on a Friday."
+	- Their Zodiac sign. e.g. "Your zodiac sign is capricorn."
